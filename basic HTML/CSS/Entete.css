@@ -1,0 +1,10 @@
+#entete {
+  background: rgb(95, 226, 43);
+  height: 40px;
+}
+#txt01 {
+  font-family: "Times New Roman", Times, serif;
+  font-size: medium;
+  font-style: italic;
+  padding: 10px;
+}
